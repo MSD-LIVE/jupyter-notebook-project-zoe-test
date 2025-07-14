@@ -1,0 +1,103 @@
+{
+    "data": {
+        "help-doc:https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/jupyter-notebooks": {
+            "data": {
+                "url": "https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/exploring-datasets",
+                "text": "MSD-LIVE General Notebook Help"
+            }
+        },
+        "layout-restorer:data": {
+            "main": {
+                "dock": {
+                    "type": "tab-area",
+                    "currentIndex": 4,
+                    "widgets": [
+                        "help-doc:https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/exploring-datasets",
+                        "help-doc:https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/creating-dataset-notebooks"
+                    ]
+                },
+                "current": "help-doc:https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/exploring-datasets"
+            },
+            "down": {
+                "size": 0,
+                "widgets": []
+            },
+            "left": {
+                "collapsed": false,
+                "visible": true,
+                "current": "filebrowser",
+                "widgets": [
+                    "filebrowser",
+                    "running-sessions",
+                    "@jupyterlab/toc:plugin"
+                ],
+                "widgetStates": {
+                    "jp-running-sessions": {
+                        "sizes": [
+                            0.3333333333333333,
+                            0.3333333333333333,
+                            0.3333333333333333
+                        ],
+                        "expansionStates": [
+                            false,
+                            false,
+                            false
+                        ]
+                    }
+                }
+            },
+            "right": {
+                "collapsed": true,
+                "visible": true,
+                "widgets": [
+                    "jp-property-inspector",
+                    "debugger-sidebar"
+                ],
+                "widgetStates": {
+                    "jp-debugger-sidebar": {
+                        "sizes": [
+                            0.2,
+                            0.2,
+                            0.2,
+                            0.2,
+                            0.2
+                        ],
+                        "expansionStates": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    }
+                }
+            },
+            "relativeSizes": [
+                0.2269446672012831,
+                0.773055332798717,
+                0
+            ],
+            "top": {
+                "simpleVisibility": true
+            }
+        },
+        "workspace-ui:lastSave": "/msdlive-workspace.jupyterlab-workspace",
+        "help-doc:https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/exploring-datasets": {
+            "data": {
+                "url": "https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/exploring-datasets",
+                "text": "MSD-LIVE General Notebook Help"
+            }
+        },
+        "help-doc:https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/creating-dataset-notebooks": {
+            "data": {
+                "url": "https://dev.msdlive.org/sb-minimal/help/resources/quick-guides/creating-dataset-notebooks",
+                "text": "MSD-LIVE Creating Notebooks Help"
+            }
+        }
+    },
+    "metadata": {
+        "id": "msdlive-workspace",
+        "last_modified": "2025-04-11T23:11:25.454726+00:00",
+        "created": "2025-04-11T23:11:25.454726+00:00"
+    }
+}
